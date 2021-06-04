@@ -1,0 +1,29 @@
+id_trim,Make,Model,Serie,Trim,Type of trailer,Service brake,Parking brake,ABS,Type brake,The maximum transport speed [km/h],The height of the fifth wheel,Recommended tractor,Fuel tank capacity [litre],Payload [kg],Useful volume [m3],Length of platform [mm],Platform width [mm],Height without awning,Height with awning [mm],"Number of Euro pallets (800x1200), [pc.]",Loading height [mm],The area of the platform [m2],Platform description,Curb weight of the trailer [kg],Total mass [kg],Length of the trailer [mm],Width of the trailer [mm],Height [mm],The number of wheels + spare,The load on the fifth wheel of the tractor [kg],Base [mm],Rear track [mm],Number of axes,The mass on the cart (axis) [kg],Support device,Ground clearance [mm],Tire size,Type of suspension
+77515,APS,Board semitrailers,5521,552100,Semitrailer flatbed,,,,,,,,,26000,,,,,,,,,,6900,,13837,,2358,8+1,10900,,,2,,,,"11,00 R20",Spring-balance
+77516,APS,Board semitrailers,5521,552110,Semitrailer flatbed,,,,,,,,,25000,,,,,,,,,,5800,,13837,2500,2183,8+1,10900,,,2,,,,"11,00 R20",Spring-balance
+77517,APS,Board semitrailers,5521,552111,Semitrailer flatbed,,,,,,,,,32200,,,,,,,,,,6500,,12600,2500,2342,8+1,16700,,,2,,,,"11,00 R20",Spring-balance
+77518,APS,Board semitrailers,5521,552112,Semitrailer flatbed,,,,,,,,,31500,,,,,,,,,,7200,,12575,2512,3030,8+1,16700,,,2,,,,"11,00 R20",Spring-balance
+77513,APS,Board semitrailers,5526,552610,Semitrailer flatbed,,,,,,,,,27050,,,,,,,,,,7650,,10705,2512,3205,4+1,16700,,,2,,,,425/85 R21,Spring-balance
+77514,APS,Board semitrailers,5526,552611,Semitrailer flatbed,,,,,,,,,31630,,,,,,,,,,7070,,12440,2470,3515,8+1,16700,,,2,,,,"11,00 R20",Spring-balance
+77510,APS,Board semitrailers,5531,553101,Semitrailer flatbed,,,,,,,,,30300,,,,,,,,,,7600,,13837,2500,2367,6+1,10900,,,3,,,,"385/65 R22,5",Spring-balance
+77511,APS,Board semitrailers,5531,553102,Semitrailer flatbed,,,,,,,,,30450,,,,,,,,,,7150,,11936,2500,2332,6+1,10900,,,3,,,,"385/65 R22,5",Spring-balance
+77512,APS,Board semitrailers,5531,553141,Semitrailer flatbed,,,,,,,,,28837,,,,,,,,,,9063,,16503,2500,2450,6+1,10900,,,3,,,,"385/65 R22,5",Spring-balance
+77509,APS,Board semitrailers,5532,553202,Semitrailer flatbed,,,,,,,,,30450,,,,,,,,,,7350,,13837,2500,2332,6+1,10900,,,3,,,,"385/65 R22,5",Pneumatic
+77508,APS,Board semitrailers,5534,553402,,,,,,,,,,30450,,,,,,,,,,7150,,13900,2550,4000,6+1,10900,,,3,,,,"385/65 R22,5",Pneumatic
+77505,APS,Board semitrailers,5536,553601,Semitrailer flatbed,,,,,,,,,38000,,,,,,,,,,8700,,12570,2512,3054,6+1,16700,,,3,,,,"385/65 R22,5",Spring-balance
+77506,APS,Board semitrailers,5536,553602,Semitrailer flatbed,,,,,,,,,38000,,,,,,,,,,8700,,12870,2440,3540,6+1,16700,,,3,,,,"385/65 R22,5",Pneumatic
+77507,APS,Board semitrailers,5536,553603,Semitrailer flatbed,,,,,,,,,29700,,,,,,,,,,8300,,12690,2475,3430,6+1,10900,,,3,,,,"385/65 R22,5",Pneumatic
+77522,APS,Container carrier semitrailers,5523,552300,Semitrailer-container truck,,,,,,,,,33600,,,,,,,1460,,,5100,,12350,2470,1460,,16700,,,,,,,"11,00 R20",Spring-balance
+77519,APS,Container carrier semitrailers,5533,553301,,,,,,,,,,32150,,,,,,,1255,,,5750,,12560,2475,1470,6+1,14700,,,3,,,,385/65 R22,Pneumatic
+77520,APS,Container carrier semitrailers,5533,553311,,,,,,,,,,34850,,,,,,,1400,,,5350,,12350,2475,1400,6+1,13200,,,3,,,,"385/65 R22,5",Spring-balance
+77521,APS,Container carrier semitrailers,5533,553312,,,,,,,,,,34400,,,,,,,1416,,,5800,,12350,2475,1416,6+1,13200,,,3,,,,"385/65 R22,5",Spring-balance
+77490,Ardor,Grain trucks,SVMM 31/39/46/48,SVMM 31/39/46/48,Semitrailer-tank,,,,,,,,,38000,46,10779,,,3975,,,,,,6230,,,,,,,,3,,,,,
+77488,Ardor,SVM,SVM 27,SVM 27,Semitrailer-tank,,,,,,,,,33700,27,,,,3855,,,,,,38000,7330,2550,,,,,,3,,,,,
+77487,Ardor,SVM,SVM 31,SVM 31,Semitrailer-tank,,,,,,,,,33680,31,,,,3855,,,,,,38000,8152,2550,,,,,,,,,,,
+77486,Ardor,SVM,SVM 31/42/45/50,SVM 31/42/45/50,Semitrailer-tank,,,,,,,,,,31,8153,,,3855,,,,,,,,,,,,,,3,,,,,
+77485,Ardor,SVM,SVM 34,SVM 34,Semitrailer-tank,,,,,,,,,33660,35,,,,3855,,,,,,38000,9008,2550,,,,,,,,,,,
+77484,Ardor,SVM,SVM 39,SVM 39,Semitrailer-tank,,,,,,,,,33510,39,,,,3855,,,,,,38000,9408,2550,,,,,,,,,,,
+77483,Ardor,SVM,SVM 42,SVM 42,Semitrailer-tank,,,,,,,,,33050,"41,8",,,,3900,,,,,,38000,9810,2550,,,,,,,,,,,
+77482,Ardor,SVM,SVM 44,SVM 44,Semitrailer-tank,,,,,,,,,32750,44,,,,3855,,,,,,38000,10272,2550,,,,,,,,,,,
+77481,Ardor,SVM,SVM 50,SVM 50,Semitrailer-tank,,,,,,,,,38000,50,,,,3855,,,,,,32640,11503,2550,,,,,,,,,,,
+77489,Ardor,SVR,SVR 45,SVR 45,Semitrailer-tank,BPW SB 4309,,,,,1200,,,38000,45,,,,3900,,,,,,,10565,2550,,,,,,3,,,,"385/65 R 22,5",
